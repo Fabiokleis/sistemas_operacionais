@@ -1,4 +1,4 @@
-/* arquivo exemplo do man 7 pthread_create */
+/* arquivo exemplo do man 3 pthread_create */
 
 #include <pthread.h>
 #include <string.h>
